@@ -25,7 +25,7 @@
 
 ## 💡 Why I Code
 
-I'm a lawyer by training, with no engineering background and no formal technical education. Everything here is self-taught, built from scratch with AI assistance and a lot of trial and error.
+I'm an in-house legal counsel with no engineering background and no formal technical education. Everything here is self-taught, built from scratch with AI assistance and a lot of trial and error.
 
 I started out of curiosity. Seeing other lawyers build their own apps and tools made this space look genuinely fun, so I'm trying it myself. It also matters for my day job: I advise and write on AI governance, and that work should be grounded in how these tools actually behave. These projects show a practitioner learning in public, and the code improves with every commit.
 
