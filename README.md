@@ -18,6 +18,7 @@
 **Legal, risk and governance leader** with **16+ years of in-house experience across APAC**, now building at the intersection of law and AI.
 
 - 🛠️ **LegalPad** — structured legal matter management for in-house counsel, built in TypeScript
+- 📑 **Contract Clarity** — AI-assisted contract review with clause extraction, risk flags, and version redlines
 - 📊 ***The State of AI in In-House Legal*** — practitioner research study, publishing October 2026
 - ✍️ Founder of **Global Legal AI** — a practitioner-led publication on legal AI and governance
 - 🎓 **PhD researcher** in law and AI, University of Leicester
@@ -34,7 +35,7 @@ const jean: LegalBuilder = {
   role: "Legal, Risk & Governance Leader",
   experience: "16+ years in-house, APAC",
   background: "self-taught, learning in public",
-  building: ["LegalPad", "Global Legal AI", "Pillar Point Advisory"],
+  building: ["LegalPad", "Contract Clarity", "Global Legal AI", "Pillar Point Advisory"],
   research: "The State of AI in In-House Legal",
   askMeAbout: ["AI governance", "legal ops", "in-house practice"]
 };
