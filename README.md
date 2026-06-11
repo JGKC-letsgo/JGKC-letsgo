@@ -2,13 +2,11 @@
 
 ![banner](Jean%20Gan%20Banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Legal%2C+Risk+%26+Governance+Leader;Building+AI+Tools+for+In-House+Teams;Founder%2C+Global+Legal+AI;PhD+Researcher+in+Law+and+AI;Shipped+LegalPad+%E2%80%94+ask+me+about+it)](https://github.com/JGKC-letsgo)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Legal%2C+Risk+%26+Governance+Leader;Building+AI+Tools+for+In-House+Teams;Founder%2C+Global+Legal+AI;PhD+Researcher+in+Law+and+AI;Building+LegalPad+in+public)](https://github.com/JGKC-letsgo)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=JGKC-letsgo&color=7c3aed&style=for-the-badge)](https://github.com/JGKC-letsgo)
-[![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Senior%20Legal%20%26%20Governance-7c3aed?style=for-the-badge)](https://linkedin.com/in/YOUR-PROFILE)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Gan-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jean-gan/)
-[![Global Legal AI](https://img.shields.io/badge/Global%20Legal%20AI-Publication-7c3aed?style=for-the-badge)](https://globallegalai.com/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Gan-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jean-gan/)
+[![Global Legal AI](https://img.shields.io/badge/Global%20Legal%20AI-Publication-7c3aed?style=for-the-badge)](https://globallegalai.com/)
 [![Pillar Point](https://img.shields.io/badge/Pillar%20Point-Advisory-5b21b6?style=for-the-badge)](https://www.linkedin.com/company/pillarpointadvisory/)
 
 </div>
@@ -27,12 +25,15 @@
 
 ## 💡 Why I Code
 
-Most legal AI commentary comes from people who have never shipped anything. I'm learning to build so my governance work is grounded in how these tools actually behave.
+I'm a lawyer by training, with no engineering background and no formal technical education. Everything here is self-taught, built from scratch with AI assistance and a lot of trial and error.
+
+I started out of curiosity. Seeing other lawyers build their own apps and tools made this space look genuinely fun, so I'm trying it myself. It also matters for my day job: I advise and write on AI governance, and that work should be grounded in how these tools actually behave. These projects show a practitioner learning in public, and the code improves with every commit.
 
 ```typescript
 const jean: LegalBuilder = {
   role: "Legal, Risk & Governance Leader",
   experience: "16+ years in-house, APAC",
+  background: "self-taught, learning in public",
   building: ["LegalPad", "Global Legal AI", "Pillar Point Advisory"],
   research: "The State of AI in In-House Legal",
   askMeAbout: ["AI governance", "legal ops", "in-house practice"]
