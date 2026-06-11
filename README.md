@@ -1,14 +1,15 @@
 <div align="center">
 
-# Jean Gan
-### Legal, Risk & Governance Leader · Building AI Tools for In-House Teams
+![banner](Jean%20Gan%20Banner.png)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Legal%2C+Risk+%26+Governance+Leader;Building+AI+Tools+for+In-House+Teams;Founder%2C+Global+Legal+AI;PhD+Researcher+in+Law+and+AI;Shipped+LegalPad+%E2%80%94+ask+me+about+it)](https://github.com/JGKC-letsgo)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=JGKC-letsgo&color=7c3aed&style=for-the-badge)](https://github.com/JGKC-letsgo)
 [![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Senior%20Legal%20%26%20Governance-7c3aed?style=for-the-badge)](https://linkedin.com/in/YOUR-PROFILE)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Gan-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-PROFILE)
-[![Global Legal AI](https://img.shields.io/badge/Global%20Legal%20AI-Publication-7c3aed?style=for-the-badge)](https://YOUR-URL.com)
-[![Pillar Point](https://img.shields.io/badge/Pillar%20Point-Advisory-5b21b6?style=for-the-badge)](https://YOUR-URL.com)
+[![Global Legal AI](https://img.shields.io/badge/Global%20Legal%20AI-Publication-7c3aed?style=for-the-badge)](https://YOUR-GLOBAL-LEGAL-AI-URL)
+[![Pillar Point](https://img.shields.io/badge/Pillar%20Point-Advisory-5b21b6?style=for-the-badge)](https://YOUR-PILLAR-POINT-URL)
 
 </div>
 
