@@ -7,9 +7,9 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=JGKC-letsgo&color=7c3aed&style=for-the-badge)](https://github.com/JGKC-letsgo)
 [![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Senior%20Legal%20%26%20Governance-7c3aed?style=for-the-badge)](https://linkedin.com/in/YOUR-PROFILE)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Gan-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-PROFILE)
-[![Global Legal AI](https://img.shields.io/badge/Global%20Legal%20AI-Publication-7c3aed?style=for-the-badge)](https://YOUR-GLOBAL-LEGAL-AI-URL)
-[![Pillar Point](https://img.shields.io/badge/Pillar%20Point-Advisory-5b21b6?style=for-the-badge)](https://YOUR-PILLAR-POINT-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Gan-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jean-gan/)
+[![Global Legal AI](https://img.shields.io/badge/Global%20Legal%20AI-Publication-7c3aed?style=for-the-badge)](https://globallegalai.com/))
+[![Pillar Point](https://img.shields.io/badge/Pillar%20Point-Advisory-5b21b6?style=for-the-badge)](https://www.linkedin.com/company/pillarpointadvisory/)
 
 </div>
 
