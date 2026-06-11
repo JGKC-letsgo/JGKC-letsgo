@@ -2,7 +2,7 @@
 
 ![banner](Jean%20Gan%20Banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Legal%2C+Risk+%26+Governance+Leader;Building+AI+Tools+for+In-House+Teams;Founder%2C+Global+Legal+AI;PhD+Researcher+in+Law+and+AI;Building+LegalPad+in+public)](https://github.com/JGKC-letsgo)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Legal%2C+Risk+%26+Governance+Leader;Building+AI+Tools+for+In-House+Teams;Founder%2C+Global+Legal+AI;PhD+Researcher+in+Law+and+AI;Making+legal+work+easier%2C+one+tool+at+a+time)](https://github.com/JGKC-letsgo)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=JGKC-letsgo&color=7c3aed&style=for-the-badge)](https://github.com/JGKC-letsgo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Gan-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jean-gan/)
